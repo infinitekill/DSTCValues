@@ -1,4 +1,5 @@
-return {
+local LastUpdated = 1733460539 -- UTC timestamp, update from here when making changes to the value list -> https://www.unixtimestamp.com/ 
+local ValueList = {
     ['Branded Purussaurus'] = 3001,
     ['Metron Praenintius'] = 1152,
     ['Pitch Wraith Terror'] = 947,
@@ -88,4 +89,5 @@ return {
     ['Rainbow Megavore'] = 1,
     ['Kaiju Spinosaurus'] = 1,
     ['Riot Shield Triceratops'] = 1,
-}, 1733460539 -- UTC timestamp, update from here when making changes to the value list -> https://www.unixtimestamp.com/ 
+}
+return ValueList, LastUpdated
