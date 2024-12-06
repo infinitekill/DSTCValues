@@ -88,4 +88,4 @@ return {
     ['Rainbow Megavore'] = 1,
     ['Kaiju Spinosaurus'] = 1,
     ['Riot Shield Triceratops'] = 1,
-}, 1733460539
+}, 1733460539 -- UTC timestamp, update from here when making changes to the value list -> https://www.unixtimestamp.com/ 
